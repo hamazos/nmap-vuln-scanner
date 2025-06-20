@@ -1,0 +1,139 @@
+{
+    "scan_time": "2025-06-20T11:16:26.363716",
+    "hosts": [
+        {
+            "ip": "127.0.0.1",
+            "status": "up",
+            "open_ports": [
+                {
+                    "port": 21,
+                    "protocol": "tcp",
+                    "service": "ftp",
+                    "product": "",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 80,
+                    "protocol": "tcp",
+                    "service": "http",
+                    "product": "Apache httpd",
+                    "version": "2.4.56",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 135,
+                    "protocol": "tcp",
+                    "service": "msrpc",
+                    "product": "Microsoft Windows RPC",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp",
+                    "service": "http",
+                    "product": "Apache httpd",
+                    "version": "2.4.56",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 445,
+                    "protocol": "tcp",
+                    "service": "microsoft-ds",
+                    "product": "",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 554,
+                    "protocol": "tcp",
+                    "service": "rtsp",
+                    "product": "",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 902,
+                    "protocol": "tcp",
+                    "service": "vmware-auth",
+                    "product": "VMware Authentication Daemon",
+                    "version": "1.10",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 912,
+                    "protocol": "tcp",
+                    "service": "vmware-auth",
+                    "product": "VMware Authentication Daemon",
+                    "version": "1.0",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 1123,
+                    "protocol": "tcp",
+                    "service": "murray",
+                    "product": "",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 2869,
+                    "protocol": "tcp",
+                    "service": "upnp",
+                    "product": "Microsoft IIS httpd",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 3306,
+                    "protocol": "tcp",
+                    "service": "mysql",
+                    "product": "MySQL",
+                    "version": "5.5.5-10.4.28-MariaDB",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 3389,
+                    "protocol": "tcp",
+                    "service": "ms-wbt-server",
+                    "product": "Microsoft Terminal Services",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 7070,
+                    "protocol": "tcp",
+                    "service": "realserver",
+                    "product": "",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 8000,
+                    "protocol": "tcp",
+                    "service": "http",
+                    "product": "Splunkd httpd",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 8089,
+                    "protocol": "tcp",
+                    "service": "http",
+                    "product": "Splunkd httpd",
+                    "version": "",
+                    "vulnerabilities": []
+                },
+                {
+                    "port": 10243,
+                    "protocol": "tcp",
+                    "service": "upnp",
+                    "product": "Microsoft IIS httpd",
+                    "version": "",
+                    "vulnerabilities": []
+                }
+            ]
+        }
+    ]
+}

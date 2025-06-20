@@ -1,0 +1,6 @@
+scripts:
+  - http-vuln-cve2017-12635
+  - http-vuln-cve2017-12636
+  - smb-vuln-ms17-010
+  - ftp-anon
+  - sshv1
